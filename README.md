@@ -2,3 +2,4 @@
 
 - idea-ultimate 2023.1.5
 - VeraCrypt 1.25.9
+- Clash for Windows 0.20.32
