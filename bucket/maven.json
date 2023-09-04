@@ -11,6 +11,6 @@
     "extract_dir": "apache-maven-3.8.5",
     "persist": [
         "conf",
-        "lib\\ext"
+        "lib"
     ]
 }
